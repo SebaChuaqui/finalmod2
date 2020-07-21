@@ -1,8 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="examen" id="6AA38AB5-3B55-6E68-B3FA-06CA632E873D" version="3.5">
-<createdBy>Sebastian Chuaqui</createdBy>
-<createdTime>2020-07-19 02:24:01 UTC</createdTime>
-<ownerDesignName>examen</ownerDesignName>
-<capitalNames>false</capitalNames>
-<designId>6AA38AB5-3B55-6E68-B3FA-06CA632E873D</designId>
-</OSDM_Design>
