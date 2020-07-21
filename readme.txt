@@ -1,4 +1,4 @@
-1. <b>Modelo Logico y Relacional<b>
+1. Modelo Logico y Relacional
 
 Se realiza modelo logico y relacional en sql data modeller y
 sea adjunta imagenes de estos y archivo con extension dmd.
